@@ -1,5 +1,5 @@
 # Tinh tong tu 1 den n
-///nasm
+```x86asm
 ORG 100h 
 .model small
 .stack 100
