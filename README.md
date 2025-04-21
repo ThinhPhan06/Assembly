@@ -1,5 +1,5 @@
 # Tinh tong tu 1 den n
-///asm 
+///nasm
 ORG 100h 
 .model small
 .stack 100
